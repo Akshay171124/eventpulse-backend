@@ -22,3 +22,4 @@ class TicketAllocator:
             key = f"seat_lock:{event_id}:{sid}"
             cur = self.redis.get(key)
             if cur and cur.decode() == reservation_id: self.redis.delete(key)
+# Confirm reservation
