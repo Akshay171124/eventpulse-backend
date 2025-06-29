@@ -10,3 +10,4 @@ class VenueSearchService:
         # ST_DWithin for index-assisted filtering, ST_Distance for ranking
         return {"venues": [], "total": 0, "radius_km": radius_km}
     async def get_venue(self, venue_id): return {"venue_id": venue_id}
+# Search filters
