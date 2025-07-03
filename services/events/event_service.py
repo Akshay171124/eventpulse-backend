@@ -24,3 +24,4 @@ class EventService:
         if data["start_time"] >= data["end_time"]: raise ValueError("End must be after start")
 # Date conflict checking
 # Venue capacity management
+# Pagination
