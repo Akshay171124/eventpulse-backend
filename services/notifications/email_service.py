@@ -19,3 +19,4 @@ class EmailService:
         msg = Mail(from_email=Email(FROM_EMAIL), to_emails=To(to_email), subject=subject, plain_text_content=Content("text/plain", body))
         self.client.send(msg)
         logger.info(f"Email sent to {to_email}")
+# Email retry logic
