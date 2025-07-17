@@ -21,3 +21,4 @@ class EmailService:
         logger.info(f"Email sent to {to_email}")
 # Email retry logic
 # Notification preferences
+# Unsubscribe handling
