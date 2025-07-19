@@ -16,3 +16,4 @@ class SMSService:
         self.client.messages.create(body=body, from_=TWILIO_FROM, to=to_phone)
         logger.info(f"SMS sent to {to_phone}")
 # SMS rate limiting
+# Notification logging
