@@ -266,3 +266,4 @@ class UserService:
         )
         return user
 # Permission cache
+# PR #2 branch marker - account service split
