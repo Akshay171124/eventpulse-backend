@@ -154,3 +154,4 @@ def get_timezone_offset(tz_name: str) -> Optional[timedelta]:
     now_in_tz = datetime.now(tz)
     return now_in_tz.utcoffset()
 # Quarterly check: Jan 2026
+# PR #6 branch marker - timezone fix
