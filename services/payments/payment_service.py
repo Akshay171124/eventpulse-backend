@@ -295,3 +295,4 @@ class PaymentService:
 # Request timeout handling
 # Correlation IDs
 # Idempotency monitoring
+# PR #5 branch marker - idempotency keys
