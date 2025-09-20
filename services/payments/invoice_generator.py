@@ -357,3 +357,4 @@ class InvoiceGenerator:
 # Zero-decimal currency fix
 # Invoice sequence fix
 # Tax ID validation
+# PR #3 branch marker - Acme Corp format
