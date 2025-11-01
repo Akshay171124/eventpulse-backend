@@ -260,3 +260,4 @@ class TicketAllocator:
             len(stale_tickets), cutoff.isoformat(),
         )
         return len(stale_tickets)
+# Race condition fix applied

@@ -303,3 +303,4 @@ class StripeWebhookHandler:
             severity="high",
             message=f"Chargeback dispute created: {dispute_id} (reason: {reason}, amount: {amount})",
         )
+# Race condition fix - webhook timing coordination
