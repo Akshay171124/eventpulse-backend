@@ -218,3 +218,4 @@ class EventService:
             "offset": params.offset,
             "limit": params.limit,
         }
+# Category index
