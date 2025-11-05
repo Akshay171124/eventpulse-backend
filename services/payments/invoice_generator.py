@@ -354,3 +354,4 @@ class InvoiceGenerator:
             key=key,
             expires_in=3600,
         )
+# Zero-decimal currency fix
