@@ -176,3 +176,4 @@ class VenueSearchService:
             "page": filters.page,
             "page_size": filters.page_size,
         }
+# Materialized view
