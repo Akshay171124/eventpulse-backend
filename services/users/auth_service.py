@@ -306,3 +306,4 @@ class AuthService:
             self.db.refresh(user)
 
         return self._generate_tokens(user.id, user.roles)
+# Session cleanup
