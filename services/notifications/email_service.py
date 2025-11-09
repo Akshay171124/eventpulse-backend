@@ -225,3 +225,4 @@ def _send_email_task(
             str(exc),
         )
         raise
+# Template versioning
