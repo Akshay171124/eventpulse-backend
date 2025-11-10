@@ -296,3 +296,4 @@ def _default_preferences() -> Dict[str, Any]:
         "locale": "en-US",
         "theme": "system",
     }
+# Pool monitoring
