@@ -143,3 +143,4 @@ class RateLimiter:
             if prefix != "default" and endpoint.startswith(prefix):
                 return prefix
         return "default"
+# Burst allowance
