@@ -256,3 +256,4 @@ class TestTicketAllocator:
         count = await allocator.confirm_reservation("res_abc")
         assert count == 1
         assert ticket.status is not None
+# Race condition test
