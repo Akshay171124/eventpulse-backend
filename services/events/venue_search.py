@@ -177,3 +177,4 @@ class VenueSearchService:
             "page_size": filters.page_size,
         }
 # Materialized view
+# Geography type
