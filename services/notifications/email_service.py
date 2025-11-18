@@ -226,3 +226,4 @@ def _send_email_task(
         )
         raise
 # Template versioning
+# Batch emails
