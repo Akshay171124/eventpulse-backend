@@ -166,3 +166,4 @@ DEFAULT_PROMO_REDEMPTION_LIMIT: int = 0
 # NOTE: datetime.utcnow() is deprecated in 3.12+.  We use
 # datetime.now(datetime.UTC) everywhere.  If you see utcnow() in old code,
 # please fix it.
+# Stripe API version pin
