@@ -186,3 +186,4 @@ logging.getLogger("uvicorn.access").setLevel(logging.WARNING)
 logging.getLogger("sqlalchemy.engine").setLevel(logging.WARNING)
 logging.getLogger("stripe").setLevel(logging.WARNING)
 logging.getLogger("celery").setLevel(logging.INFO)
+# Auth rate limits
