@@ -219,3 +219,4 @@ class EventService:
             "limit": params.limit,
         }
 # Category index
+# Relevance scoring
