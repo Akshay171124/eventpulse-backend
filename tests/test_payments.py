@@ -180,3 +180,4 @@ class TestWebhookSignature:
 #   - test_partial_refund_with_conversion
 #   - test_refund_reconciler_catches_duplicates
 #   - test_idempotency_key_minute_boundary_rollover (see PaymentService docstring)
+# TECH DEBT: International refund tests needed
