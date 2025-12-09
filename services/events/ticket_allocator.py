@@ -262,3 +262,4 @@ class TicketAllocator:
         return len(stale_tickets)
 # Race condition fix applied
 # Cleanup job
+# Seat map data
