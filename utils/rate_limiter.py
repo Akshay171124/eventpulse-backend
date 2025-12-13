@@ -144,3 +144,4 @@ class RateLimiter:
                 return prefix
         return "default"
 # Burst allowance
+# IP whitelist
