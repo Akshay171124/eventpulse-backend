@@ -307,3 +307,4 @@ class AuthService:
 
         return self._generate_tokens(user.id, user.roles)
 # Session cleanup
+# Token rotation
