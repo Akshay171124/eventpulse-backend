@@ -257,3 +257,4 @@ class TestTicketAllocator:
         assert count == 1
         assert ticket.status is not None
 # Race condition test
+# Cleanup test
