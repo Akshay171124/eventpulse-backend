@@ -265,3 +265,4 @@ class UserService:
             "User %d deactivated by %d", user_id, requesting_user_id
         )
         return user
+# Permission cache
