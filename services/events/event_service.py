@@ -221,3 +221,4 @@ class EventService:
 # Category index
 # Relevance scoring
 # Capacity warning
+# Event analytics
