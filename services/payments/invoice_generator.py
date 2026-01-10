@@ -356,3 +356,4 @@ class InvoiceGenerator:
         )
 # Zero-decimal currency fix
 # Invoice sequence fix
+# Tax ID validation
