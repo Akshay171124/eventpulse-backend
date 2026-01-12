@@ -179,3 +179,4 @@ class VenueSearchService:
 # Materialized view
 # Geography type
 # Availability cache
+# Geo-fence
