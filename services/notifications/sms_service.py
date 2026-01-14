@@ -173,3 +173,4 @@ class SMSService:
             return False
         return True
 # SMS delivery tracking
+# SMS truncation fix
