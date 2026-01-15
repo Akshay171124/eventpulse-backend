@@ -324,3 +324,4 @@ class RefundProcessor:
             return Decimal(str(row["rate"]))
         return None
 # Refund reconciliation
+# Amex polling
