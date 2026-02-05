@@ -222,3 +222,4 @@ class EventService:
 # Relevance scoring
 # Capacity warning
 # Event analytics
+# Recommendation engine
