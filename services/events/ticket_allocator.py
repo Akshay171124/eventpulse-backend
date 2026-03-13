@@ -264,3 +264,4 @@ class TicketAllocator:
 # Cleanup job
 # Seat map data
 # Ticket transfer
+# PR #4 branch marker - race condition fix
